@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetConnectivityStatus", "InternetConnectivityStatus\InternetConnectivityStatus.csproj", "{3B4EBFD9-795F-4976-B242-19966FFAC2B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{231BEF9A-7CB7-4EB9-AB9F-7C004DBD2799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{25EDA21F-D120-4D16-A363-E112CE76CC8C}"
+	ProjectSection(SolutionItems) = preProject
+		References\Windows\Windows.winmd = References\Windows\Windows.winmd
+		References\Windows\Windows.xml = References\Windows\Windows.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Annotated", "Annotated", "{DE2DA4FA-4D6D-4759-AC5C-9A1A3FE2EB8B}"
+	ProjectSection(SolutionItems) = preProject
+		References\Windows\Annotated\Windows.winmd = References\Windows\Annotated\Windows.winmd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{75DB5097-E832-4294-894C-892481182819}"
+	ProjectSection(SolutionItems) = preProject
+		Release\InternetConnectivityStatus.exe = Release\InternetConnectivityStatus.exe
+		Release\InternetConnectivityStatus.exe.config = Release\InternetConnectivityStatus.exe.config
+		Release\InternetConnectivityStatus.pdb = Release\InternetConnectivityStatus.pdb
+		Release\Windows.winmd = Release\Windows.winmd
+		Release\Windows.xml = Release\Windows.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4EBFD9-795F-4976-B242-19966FFAC2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4EBFD9-795F-4976-B242-19966FFAC2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4EBFD9-795F-4976-B242-19966FFAC2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4EBFD9-795F-4976-B242-19966FFAC2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{25EDA21F-D120-4D16-A363-E112CE76CC8C} = {231BEF9A-7CB7-4EB9-AB9F-7C004DBD2799}
+		{DE2DA4FA-4D6D-4759-AC5C-9A1A3FE2EB8B} = {25EDA21F-D120-4D16-A363-E112CE76CC8C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1DEED6-B5A2-4DAF-8769-0254B07D6A31}
+	EndGlobalSection
+EndGlobal
