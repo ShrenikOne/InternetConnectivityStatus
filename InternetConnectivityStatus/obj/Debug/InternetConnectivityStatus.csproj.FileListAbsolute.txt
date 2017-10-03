@@ -1,9 +1,0 @@
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\bin\Debug\InternetConnectivityStatus.exe.config
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\bin\Debug\InternetConnectivityStatus.exe
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\bin\Debug\InternetConnectivityStatus.pdb
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\bin\Debug\Windows.winmd
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\bin\Debug\Windows.xml
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\obj\Debug\InternetConnectivityStatus.csprojResolveAssemblyReference.cache
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\obj\Debug\InternetConnectivityStatus.csproj.CoreCompileInputs.cache
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\obj\Debug\InternetConnectivityStatus.exe
-C:\Projects\github\InternetConnectivityStatus\InternetConnectivityStatus\obj\Debug\InternetConnectivityStatus.pdb
